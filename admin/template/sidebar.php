@@ -56,6 +56,7 @@
                           <li><a href="index.php?page=pengaturan">Pengaturan Toko</a></li>
                       </ul>
                   </li>
+                  <hr>
               </ul>
               <!-- sidebar menu end-->
           </div>
