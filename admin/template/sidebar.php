@@ -22,6 +22,7 @@
                       </a>
                   </li>
                   <br>
+                  <hr>
 
                   <li class="sub-menu">
                       <a href="javascript:;">
